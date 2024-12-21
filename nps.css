@@ -8,7 +8,7 @@ body, html {
     align-items: center;
     color: black;
     text-align: center;
-    background-image: url('content://com.android.providers.downloads.documents/document/raw%3A%2Fstorage%2Femulated%2F0%2FDownload%2FIMG_20241221_222425.jpg');
+    background-image: url('IMG_20241221_222425-01.jpeg');
     background-color: rgba(0, 0, 0, 0.9);
     background-size: cover;
 }
